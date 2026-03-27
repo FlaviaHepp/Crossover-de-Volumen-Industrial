@@ -73,3 +73,84 @@ Suele anticipar:
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+📊 A veces, el cambio de tendencia no empieza en el precio… empieza en el volumen.
+
+---
+
+Hay una señal que me parece especialmente interesante:
+
+👉 Cuando el volumen de toda una industria se dispara por encima de su promedio histórico
+
+Y no en cualquier momento…
+sino justo antes de un cambio en la tendencia.
+
+---
+
+🔍 Lo que analicé:
+
+* Volumen total agregado por industria
+* Promedio histórico reciente
+* Detección de picos (cuando el volumen es 2x el promedio)
+
+---
+
+💡 ¿Qué significa esto?
+
+Cuando ves un aumento masivo de volumen a nivel sectorial:
+
+* No es retail
+* No es ruido
+* Es capital grande moviéndose
+
+👉 Posible acumulación institucional
+
+---
+
+🧠 Insight clave:
+
+Antes de que el precio cambie de tendencia…
+
+👉 alguien ya está posicionándose
+
+Y eso se refleja primero en el volumen, no en el precio.
+
+---
+
+🚀 ¿Por qué importa?
+
+Porque te permite adelantarte a movimientos relevantes:
+
+* Detectar cambios de tendencia sectorial
+* Identificar acumulación institucional
+* Construir señales tempranas para modelos
+* Mejorar timing de entrada
+
+---
+
+📈 Aplicaciones:
+
+* Estrategias de momentum por industria
+* Rotación sectorial
+* Feature engineering en modelos cuantitativos
+* Análisis de flujos de capital
+
+---
+
+🧠 Takeaway:
+
+El precio muestra el resultado…
+
+👉 el volumen muestra la intención.
+
+Y cuando esa intención aparece a nivel industria,
+la señal es mucho más fuerte.
+
+---
+
+Estoy trabajando en insights combinando SQL + lógica cuantitativa para detectar este tipo de patrones.
+
+Si te interesa este enfoque, conversemos 👇
+
+#DataScience #Quant #Finance #Trading #MachineLearning #SQL #Investing
